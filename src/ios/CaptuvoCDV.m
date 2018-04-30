@@ -185,7 +185,7 @@
         case ProtocolConnectionStatusUnableToConnect:
             NSLog(@"Error connecting!");
             break;
-        case ProtocolConnectionStatusUnableToConnectIncompatiableSledFirmware:
+        case ProtocolConnectionStatusUnableToConnectIncompatibleSledFirmware:
             NSLog(@"Incompatible firmware!");
             break;
         default:
