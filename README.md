@@ -5,15 +5,15 @@ This is a Cordova/Phonegap plugin to interact with Honeywell Captuvo sled for iP
 
 NOTE 1: the SL62 has a different SDK that needs to be swapped out in this plugin
 
-NOTE: this plugin includes version 2.13.611 of the SL42 SDK.  **You must independently agree to the EULA from HoneyWell.**
+NOTE: this plugin includes version 3.04.1425 of the SL42 SDK.  **You must independently agree to the EULA from HoneyWell.**
 
-=============
+============
 
 This plugin is compatible with plugman.  To install, run the following from your project command line: 
-```$ cordova plugin add https://github.com/BlueFletch/cordova-plugin-honeywell-captuvo.git```
+```$ cordova plugin add https://github.com/damian-tarnawsky/cordova-plugin-honeywell-captuvo.git```
 
 
-==============
+============
 
 
 <h3>To Use:</h3>
